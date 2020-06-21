@@ -14,4 +14,3 @@ C:\>
 
 * [CommitLint](https://github.com/conventional-changelog/commitlint)
 * [Commitizen](https://github.com/commitizen/cz-cli)
-
