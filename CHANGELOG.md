@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/AllanKT/teste/compare/v1.1.0...v1.2.0) (2020-06-21)
+
+
+### Features
+
+* **teste:** teste ([fe2f946](https://github.com/AllanKT/teste/commit/fe2f9467fa6f4bbce5aa4bbf7101a3bcf238021d))
+
+
+### Bug Fixes
+
+* **teste:** teste ([b46a1f7](https://github.com/AllanKT/teste/commit/b46a1f7ce8e9cc887860b066ae5ed7362541f938))
+
 ## 1.1.0 (2020-06-21)
 
 
