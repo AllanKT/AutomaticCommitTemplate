@@ -1,12 +1,14 @@
 {
   "name": "teste",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "repository": "https://github.com/AllanKT/teste.git",
   "author": "Allan Teotonio <akteotonio@stefanini.com>",
   "license": "MIT",
   "scripts": {
-    "commit": "git cz"
+    "cmt": "git cz",
+    "log": "standard-version",
+    "cmt-log": "git cz && standard-version"
   },
   "husky": {
     "hooks": {
@@ -16,6 +18,14 @@
   "devDependencies": {
     "@commitlint/cli": "^9.0.1",
     "@commitlint/config-conventional": "^9.0.1",
-    "husky": "^4.2.5"
+    "commitizen": "^4.1.2",
+    "cz-conventional-changelog": "3.2.0",
+    "husky": "^4.2.5",
+    "standard-version": "^8.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
