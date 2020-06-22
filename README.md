@@ -19,7 +19,7 @@ C:\> yarn commitizen init cz-conventional-changelog --yarn --dev --exact
 #### ChangeLogs
 
 * teste
-* 
+* teste
 
 
 # Libs
