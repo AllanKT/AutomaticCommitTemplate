@@ -7,6 +7,7 @@ C:\> echo module.exports = {extends: ['@commitlint/config-conventional']} > comm
 C:\> yarn commitizen init cz-conventional-changelog --yarn --dev --exact
 ```
 
+
 * **OBS**: Required .git folder in project
 
 #### yarn log
