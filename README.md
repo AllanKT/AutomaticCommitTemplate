@@ -21,6 +21,8 @@ C:\> yarn commitizen init cz-conventional-changelog --yarn --dev --exact
 * teste
 * 
 
+
+
 # Libs
 
 * [CommitLint](https://github.com/conventional-changelog/commitlint)
