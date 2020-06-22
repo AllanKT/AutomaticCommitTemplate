@@ -16,6 +16,7 @@ C:\> yarn commitizen init cz-conventional-changelog --yarn --dev --exact
 * Commita o package.json e o CHANGELOG.md
 * Gera uma nova tag
 
+
 #### ChangeLogs
 
 * teste
